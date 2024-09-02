@@ -1,0 +1,6 @@
+Inventory
+
+chocolates
+cakes
+chips
+biscuits

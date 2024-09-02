@@ -1,0 +1,4 @@
+Name: Mandira, Age: 30, Salary: 70000
+Name: Anindita, Age: 24, Salary: 48000
+Name: Mira, Age: 45, Salary: 90000
+Name: Rubi, Age: 28, Salary: 52000
